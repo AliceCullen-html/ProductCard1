@@ -20,6 +20,13 @@ O projeto é básico, apenas recriei um product card com animações apenas util
  <li>HTML<li>
  <li>CSS<li>
  </ul>
+ 
+ <h2>Autor</h2>
+ 
+Linkedin:
+https://www.linkedin.com/in/marcus-vinicius-18762718a/
+
+
 
 
 
