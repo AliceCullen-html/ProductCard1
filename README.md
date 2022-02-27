@@ -11,7 +11,7 @@ O projeto é básico, apenas recriei um product card com animações apenas util
 
 <h2> Layout do projeto</h2>
 
-Se preferir acesse: https://alicecullen-html.github.io/ProductCard./
+Se preferir acesse: https://alicecullen-html.github.io/ProductCard1/
 
 ![image](https://user-images.githubusercontent.com/77951123/155889294-0d510264-ad0c-4231-bee5-bc6b1bce89b6.png)
 
