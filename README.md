@@ -11,13 +11,15 @@ O projeto é básico, apenas recriei um product card com animações apenas util
 
 <h2> Layout do projeto</h2>
 
-![image](https://user-images.githubusercontent.com/77951123/155889196-96506736-9a9e-4e38-b245-cc62095276a8.png)
+![image](https://user-images.githubusercontent.com/77951123/155889294-0d510264-ad0c-4231-bee5-bc6b1bce89b6.png)
+
 
 
 <h2>Tecnologias utilizadas</h2>
 <ul>
  <li>HTML<li>
  <li>CSS<li>
+ </ul>
 
 
 
